@@ -1,0 +1,29 @@
+= Book Store (aka. Potter) Kata
+
+This is my implementation for the kata found in http://codingdojo.org/kata/Potter/.
+
+The kata does not impose any library, but here are some proposals.
+
+* Harry Potter
+
+. The Philosopher's Stone
+. The Chamber of Secrets
+. The Prisoner of Azkaban
+. The Goblet of Fire
+. The Order of the Phoenix
+
+* Tolkien
+
+. The Hobbit
+. The Fellowship of the Ring
+. The Two Towers
+. The Return of the King
+. The Silmarillion
+
+* Robert C. Martin (Uncle Bob)
+
+. Agile Software Development: Principles, Patterns, and Practices
+. Clean Code: A Handbook of Agile Software Craftsmanship
+. The Clean Coder: A Code of Conduct for Professional Programmers
+. Clean Architecture: A Craftsman's Guide to Software Structure and Design
+. Is XP Still Relevant?
